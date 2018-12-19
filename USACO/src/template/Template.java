@@ -19,15 +19,9 @@ public class Template {
 	private static FileReader fr;
 	private static BufferedWriter bw;
 	private static BufferedReader br;
+	
 	private static String inputPath = ""; // Input file path
 	private static String outputPath = ""; // Output file path
-	
-	private static String input1;
-	private static String input2;
-	
-//	private static String testInput1 = "";
-//	private static String testInput2 = "";
-//	private static String testInput3 = "";
 	
 	private static boolean test = false; // TODO make sure this is false before submission
 
